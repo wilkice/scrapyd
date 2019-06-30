@@ -1,0 +1,12 @@
+requests
+selenium
+pymysql
+pymongo
+redis
+flask
+scrapy
+scrapyd
+scrapyd-client
+scrapy-redis
+scrapy-splash
+
